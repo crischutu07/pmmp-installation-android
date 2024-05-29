@@ -1,5 +1,5 @@
 # This repository is DEPRECATED
-As the original creator of [pre-built PHP for Android](https://api.github.com/repos/DaisukeDaisuke/AndroidPHP) is no longer updated to PHP 8.2 which is a requirements for PocketMine-MP API 5+, this repository is archived.
+As the original creator of [pre-built PHP for Android](https://github.com/DaisukeDaisuke/AndroidPHP) is no longer updated to PHP 8.2 which is a requirements for PocketMine-MP API 5+, this repository is archived.
 
 # PocketMine-MP Installation for Termux
 PocketMine-MP Installation for Termux
